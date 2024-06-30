@@ -8,4 +8,3 @@
 - Former London Scholar at Northeastern University London (23-24)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/vaishavi-jayashankar-718624209/)!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishavijay&show_icons=true&theme=radical)
