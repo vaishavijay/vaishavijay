@@ -18,9 +18,9 @@ Welcome to my Github Page!
 ![](https://github-profile-trophy.vercel.app/?username=vaishavijay&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vaishavijay&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vaishavijay&icon=2&color=0)](https://visitcount.itsvg.in)  -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
