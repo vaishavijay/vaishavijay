@@ -7,7 +7,7 @@ Welcome to my Github Page!
 💭 Aspiring SWE, Data Analyst, UX/UI Designer, Web Designer, anything and everything in the mix </br>
 📍 Proud South Asian Woman in Tech from San Diego, CA </br>
 
-🏙️ Incoming Student to NU's Seattle **Cloud Computing Program**, in partnership with **AWS (Amazon Web Services)**, where I will be learning the depths of Object Oriented Programming and more in-depth Topics in Computer Science </br>
+<!-- 🏙️ Incoming Student to NU's Seattle **Cloud Computing Program**, in partnership with **AWS (Amazon Web Services)**, where I will be learning the depths of Object Oriented Programming and more in-depth Topics in Computer Science </br> -->
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vaishavi-jayashankar-718624209/)!
 
